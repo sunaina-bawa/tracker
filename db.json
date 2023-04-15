@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "fullName": "sunaina",
+      "email": "bawasunaina6@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "fullName": "sunaina",
+      "email": "shivjimahadev0@gmail.com",
+      "password": "234",
+      "id": 2
+    },
+    {
+      "fullName": "sunaina",
+      "email": "bawasunaina6@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "fullName": "shiva",
+      "email": "shivjimahadev0@gmail.com",
+      "password": "2345",
+      "id": 4
+    },
+    {
+      "fullName": "sunaina",
+      "email": "shivjimahadev0@gmail.com",
+      "password": "455",
+      "id": 5
+    },
+    {
+      "fullName": "sunaina",
+      "email": "bawasunaina1@gmail.com",
+      "password": "56",
+      "id": 6
+    },
+    {
+      "fullName": "r",
+      "email": "bawasunaina6@gmail.com",
+      "password": "45",
+      "id": 7
+    }
+  ],
+  "transactions": [
+    {
+      "transactionData": {
+        "type": "Income",
+        "category": "Gifts",
+        "amount": "56789",
+        "date": "2023-04-12"
+      },
+      "id": 1
+    }
+    
+  
+  ]
+}
